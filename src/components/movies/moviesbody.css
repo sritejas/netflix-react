@@ -1,0 +1,19 @@
+.moviesbody{
+  background-color: black;
+  height: 100%;
+  padding: 10px;
+  color: white;
+
+}
+.row{
+    width: inherit
+}
+#nullhandler h4{
+  margin-left: 280px;
+}
+#c1 {
+  margin-left: 200px;
+}
+#c2 {
+  margin-left: 200px;
+}

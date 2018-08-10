@@ -1,0 +1,12 @@
+#image-list{
+  display: inline-block;
+  width: 200px;
+  height: 250px;
+}
+#movie{
+  color: white;
+}
+#list{
+  margin-left: 5px;
+  padding: 15px;
+}

@@ -1,0 +1,11 @@
+.movies{
+  background-color: black;
+  height: auto;
+  margin: 0;
+  color: white;
+}
+#footer {
+   position: absolute;
+   bottom:0;
+
+}

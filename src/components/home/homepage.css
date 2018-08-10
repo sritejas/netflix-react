@@ -1,0 +1,10 @@
+.home{
+  background-color: black;
+  margin: 0px;
+}
+.logo{
+  margin-right:25px;
+  float: left;
+  display: inline-block;
+  padding: 10px;
+}

@@ -1,0 +1,52 @@
+#largeimage{
+  background: -webkit-linear-gradient(45deg,rgba(0,0,0,0.8),rgba(0,0,0,0.3)),url(../../assets/images/stranger_things.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding: 150px 25px;
+}
+
+.description-box{
+  width: 50%;
+}
+.description-box h4{
+  color: white;
+  font-family:serif;
+  font-weight: 200;
+  font-size: 20px;
+
+  }
+.description-box h3{
+  font-family: serif;
+  font-weight: 200;
+  font-size: 30px;
+  color: white;
+}
+.description-box h1{
+  font-family:serif;
+  font-weight: 700;
+  font-size: 60px;
+  color: white;
+  margin: 0;
+}
+#b1{
+  display: inline-block;
+  margin: 5px;
+}
+#b2{
+  display: inline-block;
+  margin: 5px
+}
+
+#videosection{
+  width: 100%;
+  background: black;
+  color: white;
+  }
+#videosection h3{
+  font-family: serif;
+  font-size: 25px;
+  margin-top: 20px;
+  margin-left: 35px;
+}

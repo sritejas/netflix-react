@@ -1,0 +1,22 @@
+.moviedetbody{
+    background-color: black;
+    color:white;
+    font-family: serif;
+    /* The image used */
+
+    /* Full height */
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.movie-card{
+    margin-left: 100px;
+    margin-top: 40px;
+}
+#col2{
+    margin-top: 80px;
+    font-family: sans-serif;
+}
